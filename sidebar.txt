@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tyx:home|Door43 (tyx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tyx|d43-tyx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tyx/archive/master.zip|d43-tyx.zip]]
+
+**Recent Changes**
+{{changes>ns = tyx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tyx|Ethnologue data]]
+
